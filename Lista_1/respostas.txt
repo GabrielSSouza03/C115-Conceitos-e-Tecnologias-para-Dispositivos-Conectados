@@ -1,0 +1,31 @@
+1. 
+Gartner define Web Services como uma espécie de serviço, dado que um cliente(usuário) faz uma pedido(requisição) a um prestador de serviços(servidor), isso se extende a diversos campos do uso da internet em geral. Gartner também cita que são aplicações de software de baixo acoplamento, que se diz a respeito a por exemplo da arquitetura Restful que é "stateless" o estado atual não depende do estado passado ou seguinte, apenas recebe a informação necessária sem afetar o resto do sistema.
+
+2.
+O protocolo SOAP é o que determina um conjunto de regras de codificação para os tipos de dados.
+Composto por um header para execução de autenticação e controle enquanto o body que é a segunda parte é o payload ou dados úteis. 
+
+3.
+Registro de serviço, Fornecedor de serviço e Solicitante de serviço.
+
+4.
+WSDL(Linguagem de Descrição de Serviços Web) é uma descrição em formato XML de um Web Service que utilizará SOAP como protocolo. 
+Os elementos básicos são os tipode de dados suportados pelo serviço, os padrões de entrada e saída de dados, os agrupamentos lógicos das operações, os protocolos de comuniccação, as assinaturas dos métodos disponibilizados e as descrições sobre schemas e namespaces sobre o próprio documento WSDl
+
+5.
+Localização dos serviços de rede.
+
+6. 
+REST é uma arquitetura para Web Services, um conjunto de regras que permitem a criação de um projeto
+com interfaces bem definidas criado por Roy Fielding em 2000 permite que diferentes protocolos sejam usados para troca de informações.
+
+7.
+O que identifica um recurso é um URI, o recurso é uma chave de abstração no REST, qualquer coisa importante para ser referenciada.
+
+8. 
+A virtualização é a separação de uma mesma parte física para utilização de mais de um sistema operciaonal e aplicativos, ou seja, usa-se um mesmo hardware par executar diferentes software isolodamente e idependentes.
+Os tipos de recursos virtualizados são os aplicativos virtuais, servidores, armazenamento e redes. 
+
+9. 
+Um contâiner Docker é uma unidade de software que empacota o código e todas as dependências necessárias para a execução do código, comunicando diretamente com o kernel do computador para executar o programa.
+
